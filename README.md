@@ -7,21 +7,15 @@ Jam-kit Can make
 - Deauth attack
 - Jam The All Wifi Networks
 
-# Python Librarys
-'''bash
+## Python Librarys
 pip install colorama
-'''
 
-# Usage (Debian)
-'''bash
+## Usage (Debian)
 git clone https://github.com/ouabiaga/Jam-kit.git
 cd Jam-kit
 python Main.py
-'''
 
-# Usage (Termux)
-'''bash
+## Usage (Termux)
 git clone https://github.com/ouabiaga/Jam-kit.git
 cd Jam-kit
 python Main.py
-'''
