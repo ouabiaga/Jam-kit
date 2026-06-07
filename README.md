@@ -9,7 +9,7 @@ Jam-kit Can make
 
 # Python Librarys
     pip install colorama
-
+    pip install scapy
 # Usage (Debian)
     git clone https://github.com/ouabiaga/Jam-kit.git
     cd Jam-kit
